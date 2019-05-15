@@ -1,0 +1,28 @@
+{
+  "name": "loquax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-uglify": "^3.0.0",
+    "live-server": "^1.2.0",
+    "natives": "^1.1.6",
+    "node-sass": "^4.10.0",
+    "rebuild": "^0.1.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/lavrud/Loquax.git",
+  "author": "lavrud <jr_durval@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavrud/Loquax/issues"
+  },
+  "homepage": "https://github.com/lavrud/Loquax#readme"
+}

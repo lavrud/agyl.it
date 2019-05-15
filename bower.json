@@ -1,0 +1,26 @@
+{
+  "name": "loquax",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Durval Visterini <jr_durval@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lavrud/Loquax",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
+  "devDependencies": {
+    "wow": "wowjs#^1.1.2",
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1"
+  }
+}
